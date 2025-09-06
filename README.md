@@ -1,4 +1,4 @@
-# Restaurant_Analysis-Python-SQL-PowerBI
+# Restaurant_Analysis
 
 
 Yelp Dataset Analysis README
