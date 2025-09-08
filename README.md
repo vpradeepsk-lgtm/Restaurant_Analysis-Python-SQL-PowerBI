@@ -23,6 +23,7 @@ Check-in
 The JSON files were loaded into a database for efficient retrieval and analysis.
 
 Tools and Technologies Used
+
 Pandas: Used for data processing and cleaning of the large JSON files.
 
 MySQL: A relational database was designed to store the Yelp data for efficient querying.
@@ -37,6 +38,7 @@ Correlation between Engagement and Success: Higher engagement, measured by usefu
 Elite Users' Impact: Elite Yelp users, while only 4.59% of the user base, contribute 44.05% of all reviews, highlighting their significant influence.
 
 Busiest Hours: The peak hours for restaurant activity, based on user engagement, are from 4 PM to 1 AM. This insight helps businesses optimize staffing and resources.
+
 
 Recommendations
 Based on the analysis, the following recommendations are provided to restaurant owners:
