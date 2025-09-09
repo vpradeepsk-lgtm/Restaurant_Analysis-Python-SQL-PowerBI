@@ -31,7 +31,7 @@ MySQL: A relational database was designed to store the Yelp data for efficient q
 Power BI: Used for creating visualizations and dashboards to present the key findings and recommendations.
 
 Analysis and Key Findings
-The project's analysis focused on open restaurants, which made up 35,000 of the 150,000 businesses in the dataset.
+The analysis focused on open restaurants, which initially accounted for approximately 35,000 businesses out of the 150,000 in the dataset. After excluding outliers to ensure more accurate results, the analysis was refined to 31,537 restaurants, providing a more precise basis for insights.
 
 Correlation between Engagement and Success: Higher engagement, measured by useful, funny, and cool reviews, suggests greater user satisfaction. The analysis found that review count reflects user engagement but not necessarily customer satisfaction or business performance alone.
 
