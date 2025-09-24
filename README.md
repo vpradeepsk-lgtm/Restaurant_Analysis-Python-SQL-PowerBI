@@ -1,19 +1,19 @@
 # Restaurant_Analysis
 
-
-# Yelp Dataset Analysis
-
+## Yelp Dataset Analysis
 This project analyzes the Yelp dataset to uncover key insights into the restaurant industry. It investigates the relationship between user engagement and business success metrics.
 
-## Project Description
+---
 
+## Project Description
 The restaurant industry is highly competitive, and understanding the factors that drive success is crucial. This project leverages a subset of the Yelp dataset to analyze the relationship between user engagement (reviews, tips, check-ins) and business performance metrics (review count, average ratings) for restaurants.
 
-The analysis reveals that a restaurant's success is not solely determined by ratings and review counts; **consistent user engagement is a vital indicator of performance.**
+The analysis shows that a restaurant's success is driven not only by ratings and review counts but also by consistent user engagement.
+
+---
 
 ## Data Overview
-
-The analysis uses a subset of the Yelp dataset, which includes business information from eight metropolitan areas in the USA and Canada. The data is provided in JSON format and is comprised of five files:
+The analysis uses a subset of the Yelp dataset, which includes business information from eight metropolitan areas in the USA and Canada. The data is provided in JSON format and consists of five files:
 
 - **Business**
 - **Review**
@@ -21,33 +21,29 @@ The analysis uses a subset of the Yelp dataset, which includes business informat
 - **Tip**
 - **Check-in**
 
-The JSON files were loaded into a database for efficient retrieval and analysis.
+The JSON files were loaded into a MySQL database for efficient retrieval and analysis.
+
+---
 
 ## Tools and Technologies Used
-
-- **Pandas** → Data processing and cleaning of large JSON files  
-- **MySQL** → Relational database designed to store Yelp data for efficient querying  
+- **Python (Pandas, NumPy)** → Data processing and cleaning of large JSON files  
+- **MySQL** → Relational database for storing Yelp data and efficient querying  
 - **Power BI** → Visualizations and dashboards to present findings and recommendations  
 
-## Analysis and Key Findings
+---
 
-The analysis focused on **open restaurants**, which initially accounted for approximately **35,000 businesses** out of the 150,000 in the dataset.  
+## Setup Instructions
 
-After excluding outliers to ensure more accurate results, the analysis was refined to **31,537 restaurants**, providing a more precise basis for insights.  
+1. **Clone the repository**
+```bash
+git clone https://github.com/vpradeepsk-lgtm/Restaurant_Analysis-Python-SQL-PowerBI.git
+cd Restaurant_Analysis-Python-SQL-PowerBI
 
-### 1. Correlation between Engagement and Success  
-Higher engagement, measured by useful, funny, and cool reviews, suggests greater user satisfaction. The analysis found that **review count reflects user engagement but not necessarily customer satisfaction or business performance alone.**
+---
 
-### 2. Elite Users' Impact  
-Elite Yelp users, while only **4.59% of the user base**, contribute **44.05% of all reviews**, highlighting their **significant influence.**
+## Setup Instructions
 
-### 3. Busiest Hours  
-The peak hours for restaurant activity, based on user engagement, are **from 4 PM to 1 AM.**  
-This insight helps businesses optimize staffing and resources.  
-
-## Recommendations
-
-- **Cultivate a Holistic Engagement Strategy** → Encourage all forms of user interaction, not just reviews. Nurture relationships with elite users to build loyalty.  
-- **Optimize Operations Using Data** → Utilize insights on peak hours to optimize staffing levels and ensure a smooth customer experience.  
-- **Redefine Business Success** → Combine strong ratings with consistent engagement to get a more accurate picture of a restaurant's success.  
-
+1. **Clone the repository**
+```bash
+git clone https://github.com/vpradeepsk-lgtm/Restaurant_Analysis-Python-SQL-PowerBI.git
+cd Restaurant_Analysis-Python-SQL-PowerBI
