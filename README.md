@@ -47,3 +47,9 @@ cd Restaurant_Analysis-Python-SQL-PowerBI
 ```bash
 git clone https://github.com/vpradeepsk-lgtm/Restaurant_Analysis-Python-SQL-PowerBI.git
 cd Restaurant_Analysis-Python-SQL-PowerBI
+
+
+## Optional: Screenshots
+Here is a sample of the Power BI dashboard for the project:
+
+![Dashboard Sample](images/Restaurant_Analysis-Python-SQL-PowerBI.png)
