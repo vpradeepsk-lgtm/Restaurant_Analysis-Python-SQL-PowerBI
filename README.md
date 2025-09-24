@@ -38,18 +38,3 @@ The JSON files were loaded into a MySQL database for efficient retrieval and ana
 ```bash
 git clone https://github.com/vpradeepsk-lgtm/Restaurant_Analysis-Python-SQL-PowerBI.git
 cd Restaurant_Analysis-Python-SQL-PowerBI
-
----
-
-## Setup Instructions
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/vpradeepsk-lgtm/Restaurant_Analysis-Python-SQL-PowerBI.git
-cd Restaurant_Analysis-Python-SQL-PowerBI
-
-
-## Optional: Screenshots
-Here is a sample of the Power BI dashboard for the project:
-
-![Dashboard Sample](images/Restaurant_Analysis-Python-SQL-PowerBI.png)
